@@ -1,0 +1,50 @@
+form, h2 {
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2 {
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+p {
+    margin-right: 20px;
+    margin-bottom: 0px;
+    margin-top: 75px;
+}
+
+input {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.username {
+    width: 200px;
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+button {
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    width: 200px;
+    margin: 100px 100px;
+}

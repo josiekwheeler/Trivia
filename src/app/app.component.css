@@ -1,0 +1,25 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 70px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+}
+
+a {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 50px;
+    font-size: 40px;
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+}

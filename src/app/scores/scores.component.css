@@ -1,0 +1,7 @@
+p {
+    font-size: 40px;
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
